@@ -1,0 +1,9 @@
+apply plugin: 'java'
+
+repositories {
+	jcenter()
+}
+
+dependencies {
+	compile 'org.processing:core:3.0.1'
+}
